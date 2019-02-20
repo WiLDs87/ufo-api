@@ -8,6 +8,6 @@ https://leanpub.com/construindo-apis-testaveis-com-nodejs/
 There are youtube videos from this book 
 https://www.youtube.com/playlist?list=PLz_YTBuxtxt74aOA2W8ArqZpsPlxP-JC9
 
-Waldema's Github
+Waldemar's Github
 https://github.com/waldemarnt
 
